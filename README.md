@@ -1,0 +1,1 @@
+This HTML file creates a basic calculator interface with buttons for numbers, operators, and special functions. JavaScript handles button clicks to update the input field, while CSS provides styling for a modern look.
